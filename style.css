@@ -1,0 +1,29 @@
+body{
+	background-color: #F5F5F5;
+	font-family: system-ui;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#name1{
+font-family: monospace;
+
+}
+#color1{
+	color: #F01E1E 
+}
+#color2
+{
+	color:#E7E7E7
+}
+#punkt{
+	border-bottom: 1px dotted;
+}
+#end1{
+	background-color:#DCDCDC;
+	color:#25A3B4;
+
+}
